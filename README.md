@@ -3,7 +3,6 @@
 <h3 align="center">I’m currently a software engineering student at 1337 khouribga (part of 42 network)</h3>
 <h3 align="center">I’m passionate about web development and new technologies,graphic designe , digital artist , game dev enthusiast .</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">-->
-<br> -->
 
 ![mmakboub's 42 stats](https://badge.mediaplus.ma/kettlebells/mmakboub)
 
