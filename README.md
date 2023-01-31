@@ -29,11 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmakboub&" alt="mmakboub" /></p>
 
-## my contribution 
-
-![snake gif](https://github.com/mmakboub/mmakboub/blob/output/github-contribution-grid-snake.gif)
-
-
 <!---
 mmakboub/mmakboub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
