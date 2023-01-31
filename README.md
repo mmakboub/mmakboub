@@ -1,6 +1,4 @@
 
-- 👀 I’m passionate about web development and new technologies,graphic designe , digital artist , game dev enthusiast .
-- 
 <h1 align="center">Hi 👋, I'm mariam</h1>
 <h3 align="center">I’m currently a software engineering student at 1337 khouribga (part of 42 network)</h3>
 <h3 align="center">I’m passionate about web development and new technologies,graphic designe , digital artist , game dev enthusiast .</h3>
