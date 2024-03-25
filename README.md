@@ -6,7 +6,7 @@
 🔍 As a full-stack developer in training, I am constantly refining my skills, exploring emerging technologies, and pushing the boundaries of what can be achieved in the realm of web development .</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<img align="center" src="https://badge.mediaplus.ma/kettlebells/mmakboub">
+<img src="https://badge.mediaplus.ma/kettlebells/mmakboub">
 
 
 <br>
