@@ -6,12 +6,13 @@
 🔍 As a full-stack developer in training, I am constantly refining my skills, exploring emerging technologies, and pushing the boundaries of what can be achieved in the realm of web development .</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-![mmakboub's 42 stats](https://badge.mediaplus.ma/kettlebells/mmakboub)
+<img align="center" src="https://badge.mediaplus.ma/kettlebells/mmakboub">
+
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmakboub&label=Profile%20views&color=0e75b6&style=flat" alt="mmakboub" /> </p>
 
-- 🌱 I’m currently learning **PYTHON, PHP, JAVA, MYSQL, C++**
+- 🌱 I’m currently learning **PYTHON, PHP, JAVA, C#**
 
 - 📫 How to reach me **makboubmariam@gmail.com**
 
