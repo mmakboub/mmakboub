@@ -1,7 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm mariam</h1>
-<h3 align="center">I’m currently a software engineering student at 1337 khouribga (part of 42 network)</h3>
-<h3 align="center">I’m passionate about web development and new technologies,graphic designe , digital artist , game dev enthusiast .</h3>
+<h1 align="center">👩‍💻 Greetings! I'm Mariam</h1>
+<h3 align="center">currently a software engineering student at 1337 khouribga proudly associated with the 42 network</h3>
+<h3 align="center">🕹️ My passion lies in game development, where I delve into interactive storytelling and immersive experiences.
+💻 Web development and problem-solving are my forte, where I excel in crafting elegant solutions and materializing ideas into the digital realm.
+🔍 As a full-stack developer in training, I am constantly refining my skills, exploring emerging technologies, and pushing the boundaries of what can be achieved in the realm of web development .</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">-->
 
 ![mmakboub's 42 stats](https://badge.mediaplus.ma/kettlebells/mmakboub)
