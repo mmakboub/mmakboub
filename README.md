@@ -5,7 +5,7 @@
 💻 Web development and problem-solving are my forte, where I excel in crafting elegant solutions and materializing ideas into the digital realm.
 🔍 As a full-stack developer in training, I am constantly refining my skills, exploring emerging technologies, and pushing the boundaries of what can be achieved in the realm of web development .</h3>
 
-<p align="left"> <img src="https://badge.mediaplus.ma/kettlebells/mmakboub" alt="mmakboub" /> </p>
+<img align="center" src="https://badge.mediaplus.ma/kettlebells/mmakboub">
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmakboub&label=Profile%20views&color=0e75b6&style=flat" alt="mmakboub" /> </p>
