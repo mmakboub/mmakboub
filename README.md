@@ -1,16 +1,16 @@
 
 <h1 align="center">👩‍💻 Greetings! I'm Mariam</h1>
-<h3 align="center">currently a software engineering student at 1337 khouribga proudly associated with the 42 network</h3>
-<h3 align="center">🕹️ My passion lies in game development, where I delve into interactive storytelling and immersive experiences.
+<h3 align="center">currently a software engineering member at 1337 khouribga proudly associated with the 42 network</h3>
+<h3 align="center">and Backend Engineer at WEBLOO company </h3>
+<h3 align="center">🕹️ My passion lies in web development, where I delve into interactive storytelling and immersive experiences.
 💻 Web development and problem-solving are my forte, where I excel in crafting elegant solutions and materializing ideas into the digital realm.
-🔍 As a full-stack developer in training, I am constantly refining my skills, exploring emerging technologies, and pushing the boundaries of what can be achieved in the realm of web development .</h3>
+🔍 As a software engineer, I am constantly refining my skills, exploring emerging technologies, and pushing the boundaries of what can be achieved in the realm of web development .</h3>
 
 <img align="center" src="https://res.cloudinary.com/dafjoc7f3/image/upload/v1711405710/Screen_Shot_2024-03-25_at_10.26.40_PM_afz2hz.png">
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmakboub&label=Profile%20views&color=0e75b6&style=flat" alt="mmakboub" /> </p>
 
-- 🌱 I’m currently learning **PYTHON, PHP, JAVA, C#**
 
 - 📫 How to reach me **makboubmariam@gmail.com**
 
