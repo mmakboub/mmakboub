@@ -1,6 +1,6 @@
 
 <h1 align="center">👩‍💻 Greetings! I'm Mariam</h1>
-<h3 align="center">currently a software engineering member at 1337 khouribga proudly associated with the 42 network</h3>
+<h3 align="center">Currently a software engineering member at 1337 khouribga proudly associated with the 42 network</h3>
 <h3 align="center">and Backend Engineer at WEBLOO company </h3>
 <h3 align="center">🕹️ My passion lies in web development, where I delve into interactive storytelling and immersive experiences.
 💻 Web development and problem-solving are my forte, where I excel in crafting elegant solutions and materializing ideas into the digital realm.
