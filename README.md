@@ -1,34 +1,6 @@
 
-<h1 align="center">👩‍💻 Greetings! I'm Mariam</h1>
-<h3 align="center">Currently a software engineering member at 1337 khouribga proudly associated with the 42 network</h3>
-<h3 align="center">🕹️ My passion lies in web development, where I delve into interactive storytelling and immersive experiences.
-💻 Web development and problem-solving are my forte, where I excel in crafting elegant solutions and materializing ideas into the digital realm.
-🔍 As a software engineer, I am constantly refining my skills, exploring emerging technologies, and pushing the boundaries of what can be achieved in the realm of web development .</h3>
-
-<img align="center" src="https://res.cloudinary.com/dafjoc7f3/image/upload/v1711405710/Screen_Shot_2024-03-25_at_10.26.40_PM_afz2hz.png">
-
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmakboub&label=Profile%20views&color=0e75b6&style=flat" alt="mmakboub" /> </p>
-
-
-- 📫 How to reach me **makboubmariam@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mariam-makbouub-932687186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria moussammi" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mariam.makboub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moussami zakaria" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__mariamma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakaria_mossami" height="30" width="40" /></a>
-</p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmakboub&show_icons=true&locale=en&layout=compact" alt="mmakboub" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmakboub&show_icons=true&locale=en" alt="mmakboub" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmakboub&" alt="mmakboub" /></p>
 <h1 align="center">👩‍💻 Hey there, I'm Mariam!</h1>
-<h3 align="center">Software Developer @ Markoub.ma | 1337 Khouribga • 42 Network</h3>
+<h3 align="center">Software Developer @Markoub.ma | 1337 laureate • 42 Network In Paris | Master’s Degree Holder at UM6P </h3>
 
 <p align="center">
   💡 Passionate about interactive web experiences<br>
@@ -45,10 +17,10 @@
 - 🛠️ **Software Developer** – [Markoub.ma](https://markoub.ma) *(Present)*  
   Building scalable systems for a leading transport platform in Morocco.
   
-- 🧪 **Backend Engineer** – Webloo EMEA *(2023)*  
+- 🧪 **Backend Engineer** – Webloo EMEA *(09-2025 to 3-2025)*  
   Developed and maintained backend services in a distributed architecture.
 
-- 🧑‍💻 **Software Development Intern** – Atelier Digital *(2022)*  
+- 🧑‍💻 **Software Development Intern** – Atelier Digital *(05-2025 to 09-2025)*  
   Contributed to frontend and backend features of a client-facing product.
 
 ---
@@ -62,16 +34,18 @@
 ---
 
 ### ✨ Featured Projects
-
-- 🖼️ [**Interactive Storytelling App**](https://github.com/mmakboub/your-project): A React-based storytelling platform with animations and dynamic routing.
-- 🗂️ [**Backoffice Dashboard**](https://github.com/mmakboub/your-dashboard): A full-featured admin panel using TanStack tools and advanced filtering.
-- 🎮 [**Web Game Prototype**](https://github.com/mmakboub/your-game): A browser-based mini-game built with JavaScript and Canvas API.
+- 🚌 [**Markboub**]([https://markoub.ma/]): Contributed to the development and maintenance of Markoub as part of a collaborative team, working on both frontend and backend features to enhance user experience and system reliability.
+- 🧑‍⚕️ [**Catalyst Health Group**]([https://www.catalysthealthgroup.net/catalyst-physician-group/]): Contributed to the development and maintenance of the Catalyst Health Group In US, supporting frontend/backend tasks to improve site performance and user experience.
+- 🏘️ [**Catalyst Physician Group**]([https://www.catalysthealthgroup.net/catalyst-physician-group/]): Contributed to the development and maintenance of the Catalyst Physician Group In US, supporting frontend/backend tasks to improve site performance and user experience.
+- 💬 [**MyPeeps**]([https://mypeeps.net/]): Worked on the backend of MyPeeps, handling server-side logic, API development, and database management to ensure smooth and scalable platform performance.
+- 🤖 **Buddy Coach**: An AI-powered chat app where you can talk and collaborate with virtual influencers like Kenza, Layli, Mehdi, and Zina for personalized coaching and advice.
+- 🎮 [**Web Game Prototype**]([https://github.com/mmakboub/your-game](https://github.com/mmakboub/Ping_Pong_Game)): A browser-based mini-game built with JavaScript and Canvas API.
 
 ---
 
 ### 🧠 Currently Working On
 
-- ⚙️ TypeScript + Next.js full-stack projects  
+- ⚙️ TypeScript + Next.js full-stack projects + Tanstack + Nitro  
 - 🎨 UI animation using GSAP & Three.js  
 - 📚 Reading *Clean Code* by Robert C. Martin  
 
