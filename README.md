@@ -27,6 +27,88 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmakboub&show_icons=true&locale=en" alt="mmakboub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmakboub&" alt="mmakboub" /></p>
+<h1 align="center">👩‍💻 Hey there, I'm Mariam!</h1>
+<h3 align="center">Software Developer @ Markoub.ma | 1337 Khouribga • 42 Network</h3>
+
+<p align="center">
+  💡 Passionate about interactive web experiences<br>
+  💻 Specializing in backend and full-stack web development<br>
+  🚀 Always learning, experimenting, and building digital stories
+</p>
+
+<img align="center" src="https://res.cloudinary.com/dafjoc7f3/image/upload/v1711405710/Screen_Shot_2024-03-25_at_10.26.40_PM_afz2hz.png" alt="Cover image" />
+
+---
+
+### 🧑‍💼 Experience
+
+- 🛠️ **Software Developer** – [Markoub.ma](https://markoub.ma) *(Present)*  
+  Building scalable systems for a leading transport platform in Morocco.
+  
+- 🧪 **Backend Engineer** – Webloo EMEA *(2023)*  
+  Developed and maintained backend services in a distributed architecture.
+
+- 🧑‍💻 **Software Development Intern** – Atelier Digital *(2022)*  
+  Contributed to frontend and backend features of a client-facing product.
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,express,html,css,tailwind,postgres,mysql,mongodb,git,github,vscode,figma" />
+</p>
+
+---
+
+### ✨ Featured Projects
+
+- 🖼️ [**Interactive Storytelling App**](https://github.com/mmakboub/your-project): A React-based storytelling platform with animations and dynamic routing.
+- 🗂️ [**Backoffice Dashboard**](https://github.com/mmakboub/your-dashboard): A full-featured admin panel using TanStack tools and advanced filtering.
+- 🎮 [**Web Game Prototype**](https://github.com/mmakboub/your-game): A browser-based mini-game built with JavaScript and Canvas API.
+
+---
+
+### 🧠 Currently Working On
+
+- ⚙️ TypeScript + Next.js full-stack projects  
+- 🎨 UI animation using GSAP & Three.js  
+- 📚 Reading *Clean Code* by Robert C. Martin  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmakboub&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmakboub" alt="Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmakboub&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/mariam-makbouub-932687186/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:makboubmariam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/__mariamma/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/mariam.makboub/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+<p align="center">👀 <img src="https://komarev.com/ghpvc/?username=mmakboub&label=Profile%20views&color=0e75b6&style=flat" alt="mmakboub" /></p>
 
 <!---
 mmakboub/mmakboub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
