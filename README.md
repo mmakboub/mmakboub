@@ -1,6 +1,6 @@
 
 <h1 align="center">👩‍💻 Hey there, I'm Mariam!</h1>
-<h3 align="center">Software Developer @Markoub.ma | 1337 laureate • 42 Network In Paris | Master’s Degree Holder at UM6P </h3>
+<h3 align="center">Software Developer @Markoub.ma | 1337 laureate • 42 Network In Paris | Master’s Degree In software Engineering at UM6P </h3>
 
 <p align="center">
   💡 Passionate about interactive web experiences<br>
