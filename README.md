@@ -1,6 +1,6 @@
 
 <h1 align="center">👩‍💻 Hey there, I'm Mariam!</h1>
-<h3 align="center">Software Developer @Markoub.ma | 1337 laureate • 42 Network In Paris | Master’s Degree In software Engineering at UM6P </h3>
+<h3 align="center">Backend Developer | 1337 laureate • 42 Network In Paris | Master’s Degree In software Engineering at UM6P </h3>
 
 <p align="center">
   💡 Passionate about interactive web experiences<br>
@@ -14,7 +14,7 @@
 
 ### 🧑‍💼 Experience
 
-- 🛠️ **Software Developer**  at – [Markoub.ma](https://markoub.ma) *(Present)*  
+- 🛠️ **Software Developer**  at – [Markoub.ma](https://markoub.ma)*(03-2025 to 7-2025)* 
   Building scalable systems for a leading transport platform in Morocco.
   
 - 🧪 **Backend Engineer** – Webloo EMEA *(09-2025 to 3-2025)*  
